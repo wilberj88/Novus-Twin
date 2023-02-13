@@ -31,3 +31,17 @@ https://sketchfab.com/3d-models/robot-character-asset-commission-7db077396ec04c7
 https://sketchfab.com/3d-models/sony-lab-the-eco-futur-robot-778a84f4c81d47ec901cd1d713a5d4f2
 
 
+Mando 3D:
+https://sketchfab.com/3d-models/sci-fi-lowpoly-dashboard-c43dfbc4d1b84a55b8d3581493965c69
+https://sketchfab.com/3d-models/vr-workspace-bf5cf1433d1845d4a3095462c7a95be4
+https://threejs.org/examples/#css3d_periodictable
+https://threejs.org/examples/#css3d_youtube
+https://threejs.org/examples/#css2d_label
+https://threejs.org/examples/#misc_controls_pointerlock
+https://threejs.org/examples/#misc_controls_fly
+
+
+
+
+
+
