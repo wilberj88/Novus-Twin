@@ -9,6 +9,9 @@ https://medium.com/mlearning-ai/point-clouds-to-3d-meshes-in-python-d90c8e53fe96
 3D Generative Model:
 https://towardsdatascience.com/3d-generative-modeling-with-deepsdf-2cd06f1ec9b3
 
+iMAP modeling 3D in real time:
+https://cameronrwolfe.substack.com/p/imap-modeling-3d-scenes-in-real-time?utm_source=post-email-title&publication_id=1092659&post_id=99239646&isFreemail=true&utm_medium=email
+
 Pencil Skecth from image:
 https://levelup.gitconnected.com/create-a-pencil-sketch-from-an-image-using-python-and-ai-638483a26fc
 
