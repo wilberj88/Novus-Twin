@@ -3,6 +3,10 @@
 Streamlit Visualizaciones:
 1) St.Pyvista
 
+
+ThreeJs:
+https://threejs.org/examples/#misc_controls_pointerlock
+
 Definition of Digital Twin:
 https://medium.com/geekculture/what-is-a-digital-twin-46ad1f549cce
 
