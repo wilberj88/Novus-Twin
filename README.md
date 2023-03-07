@@ -7,6 +7,9 @@ Streamlit Visualizaciones:
 ThreeJs:
 https://threejs.org/examples/#misc_controls_pointerlock
 
+Showroom:
+https://www.roomgpt.io/
+
 Modeling 3D Scenes:
 https://towardsdatascience.com/scene-representation-networks-bae6186d00d9
 
