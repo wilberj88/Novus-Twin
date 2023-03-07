@@ -7,6 +7,9 @@ Streamlit Visualizaciones:
 ThreeJs:
 https://threejs.org/examples/#misc_controls_pointerlock
 
+Modeling 3D Scenes:
+https://towardsdatascience.com/scene-representation-networks-bae6186d00d9
+
 Definition of Digital Twin:
 https://medium.com/geekculture/what-is-a-digital-twin-46ad1f549cce
 
