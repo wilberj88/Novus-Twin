@@ -7,6 +7,9 @@ Streamlit Visualizaciones:
 ThreeJs:
 https://threejs.org/examples/#misc_controls_pointerlock
 
+3D reconstruction with Photogrammetry:
+https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4
+
 Python-D3.js
 https://medium.com/@andyphuawc/creating-a-simple-carpark-search-web-app-using-streamlit-5a313bf8f7fd
 
