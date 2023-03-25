@@ -10,6 +10,9 @@ https://threejs.org/examples/#misc_controls_pointerlock
 3D reconstruction with Photogrammetry:
 https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4
 
+Generate a 3D Mesh of a Geographic Area with QGIS | by Mattia Gatti | Mar, 2023 | Towards Data Science
+https://towardsdatascience.com/generate-a-3d-mesh-of-a-geographic-area-with-qgis-3844e3f7806a
+
 Python-D3.js
 https://medium.com/@andyphuawc/creating-a-simple-carpark-search-web-app-using-streamlit-5a313bf8f7fd
 
