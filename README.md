@@ -16,6 +16,9 @@ https://towardsdatascience.com/generate-a-3d-mesh-of-a-geographic-area-with-qgis
 Generate a 3D Mesh from an Image with Python | by Mattia Gatti | Towards Data Science
 https://towardsdatascience.com/generate-a-3d-mesh-from-an-image-with-python-12210c73e5cc
 
+3D Generative Modeling with DeepSDF:
+https://towardsdatascience.com/3d-generative-modeling-with-deepsdf-2cd06f1ec9b3
+
 Python-D3.js
 https://medium.com/@andyphuawc/creating-a-simple-carpark-search-web-app-using-streamlit-5a313bf8f7fd
 
