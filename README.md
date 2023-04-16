@@ -22,6 +22,9 @@ https://towardsdatascience.com/3d-generative-modeling-with-deepsdf-2cd06f1ec9b3
 Python-D3.js
 https://medium.com/@andyphuawc/creating-a-simple-carpark-search-web-app-using-streamlit-5a313bf8f7fd
 
+NVIDIA omniverse: Industrial Metaverse
+https://cesium.com/blog/2023/03/21/cesium-for-omniverse-launch/
+
 Showroom:
 https://www.roomgpt.io/
 
