@@ -3,6 +3,9 @@
 Streamlit Visualizaciones:
 1) St.Pyvista
 
+Curso Retrato 3D:
+https://www.domestika.org/es/courses/3625-retrato-3d-realista-con-zbrush-y-keyshot?fbclid=IwAR2wLHQ3YpdbjetMgSAjDfP2fM6JWRnv3dlO4Eqcs59CJ9TGadKRzffrXeo_aem_AbZ2s5iMWvOxkRcgmPZWm-kJJ3CQE-mdlC0VkEFYdHiOlx9v2bodAAPO6CS-YU5cVM1RPK5oIqwbEJhwDzrfhKjy6OfraZGS-LHqHw_zZiM9gnAHfi4-7J-W8zMbhbh3R9M&nb_placement=Facebook_Mobile_Feed&nbt=nb%3Afb%3Afb%3A23850099897150499%3A23850099897170499%3A23850099897280499&utm_campaign=0_WW_MIX_COURSES_NPevent_LOWESTCOST_AB_23850099897150499&utm_content=campaignid_23850099897150499_adid_23850099897280499&utm_medium=cpc&utm_source=facebook.com
+
 
 ThreeJs:
 https://threejs.org/examples/#misc_controls_pointerlock
