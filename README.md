@@ -5,6 +5,7 @@ Streamlit Visualizaciones:
 
 Python 3D 
 https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-6112d9ee38e7
+https://betterprogramming.pub/introduction-to-point-cloud-processing-dbda9b167534
 Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
 
