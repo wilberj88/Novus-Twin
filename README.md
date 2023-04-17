@@ -3,6 +3,9 @@
 Streamlit Visualizaciones:
 1) St.Pyvista
 
+JavaScript 3D + ChatGPT: 
+https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
+
 Python 3D 
 https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-6112d9ee38e7
 https://betterprogramming.pub/introduction-to-point-cloud-processing-dbda9b167534
