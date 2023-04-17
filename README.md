@@ -3,7 +3,9 @@
 Streamlit Visualizaciones:
 1) St.Pyvista
 
-Python 3D Lidar
+Python 3D 
+https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-6112d9ee38e7
+Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
 
 Curso Retrato 3D:
