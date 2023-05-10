@@ -99,6 +99,7 @@ Local Light Field Fusion. How to render 3D scenes on a smart… | by Cameron R. 
 https://towardsdatascience.com/local-light-field-fusion-14c07ed36117
 
 
-
+A Sustainable Supply Chain Template with Geospatial Calculations in Python | by Sabi Horvat | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4
 
 
