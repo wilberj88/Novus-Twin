@@ -95,6 +95,9 @@ https://threejs.org/examples/#misc_controls_pointerlock
 https://threejs.org/examples/#misc_controls_fly
 
 
+Local Light Field Fusion. How to render 3D scenes on a smart… | by Cameron R. Wolfe | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/local-light-field-fusion-14c07ed36117
+
 
 
 
