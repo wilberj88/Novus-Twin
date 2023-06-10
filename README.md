@@ -77,6 +77,9 @@ https://levelup.gitconnected.com/create-a-pencil-sketch-from-an-image-using-pyth
 ThreeJS Expert:
 https://www.johnscript-dev.com/
 
+Brain Twin:
+https://medium.com/codingthesmartway-com-blog/quivr-the-open-source-ai-project-thats-your-second-brain-in-the-cloud-17e3541fe45c
+
 
 Atento 3D:
 https://sketchfab.com/3d-models/robot-copernicus-9ab010f711214f38a8ed9002247b70db
