@@ -31,6 +31,7 @@ https://www.domestika.org/es/courses/4272-animacion-de-personajes-3d-estilo-cart
 
 ThreeJs:
 https://threejs.org/examples/#misc_controls_pointerlock
+Dora: no code threejs
 
 3D reconstruction with Photogrammetry:
 https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4
