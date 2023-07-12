@@ -7,6 +7,7 @@ JavaScript 3D + ChatGPT:
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
 
 Python 3D 
+https://blog.ml6.eu/3d-computer-vision-unlocking-the-third-dimension-part-1-bd15450b1f48
 https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-6112d9ee38e7
 https://betterprogramming.pub/introduction-to-point-cloud-processing-dbda9b167534
 https://betterprogramming.pub/point-cloud-filtering-in-python-e8a06bbbcee5
