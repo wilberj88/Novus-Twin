@@ -114,4 +114,6 @@ https://towardsdatascience.com/local-light-field-fusion-14c07ed36117
 A Sustainable Supply Chain Template with Geospatial Calculations in Python | by Sabi Horvat | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4
 
+Referente Homeweb en 3D:
+Estaciones de carga: https://power-electronics.com/
 
