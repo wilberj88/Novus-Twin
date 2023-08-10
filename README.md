@@ -12,6 +12,7 @@ https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-61
 https://betterprogramming.pub/introduction-to-point-cloud-processing-dbda9b167534
 https://betterprogramming.pub/point-cloud-filtering-in-python-e8a06bbbcee5
 Clone Yourself: https://betterprogramming.pub/unleash-your-digital-twin-how-fine-tuning-llm-can-create-your-perfect-doppelganger-b5913e7dda2e
+https://github.com/openai/shap-e
 
 Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
