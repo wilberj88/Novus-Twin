@@ -13,6 +13,7 @@ https://betterprogramming.pub/introduction-to-point-cloud-processing-dbda9b16753
 https://betterprogramming.pub/point-cloud-filtering-in-python-e8a06bbbcee5
 Clone Yourself: https://betterprogramming.pub/unleash-your-digital-twin-how-fine-tuning-llm-can-create-your-perfect-doppelganger-b5913e7dda2e
 https://github.com/openai/shap-e
+https://medium.com/geoai/geoai-in-3d-with-pytorch3d-ec7a88add06
 
 Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
