@@ -21,6 +21,8 @@ https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff4
 3D Segmentation:
 https://towardsdatascience.com/3d-deep-learning-python-tutorial-pointnet-data-preparation-90398f880c9f?source=social.tw
 
+3D Indoor:
+https://towardsdatascience.com/3d-point-cloud-shape-detection-for-indoor-modelling-70e36e5f2511
 
 Local Light Field Fusion. How to render 3D scenes on a smart… | by Cameron R. Wolfe | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/local-light-field-fusion-14c07ed36117
