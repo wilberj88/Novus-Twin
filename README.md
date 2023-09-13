@@ -3,6 +3,11 @@
 Streamlit Visualizaciones:
 1) St.Pyvista
 
+Stacks:
+1) Python Points 3D
+2) https://www.unrealengine.com/es-ES
+3) Unity
+
 JavaScript 3D + ChatGPT: 
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
 
