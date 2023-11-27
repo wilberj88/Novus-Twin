@@ -29,6 +29,9 @@ https://towardsdatascience.com/3d-deep-learning-python-tutorial-pointnet-data-pr
 3D Indoor:
 https://towardsdatascience.com/3d-point-cloud-shape-detection-for-indoor-modelling-70e36e5f2511
 
+Room:ThreeJs
+https://my-room-in-3d.vercel.app/
+
 Local Light Field Fusion. How to render 3D scenes on a smart… | by Cameron R. Wolfe | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/local-light-field-fusion-14c07ed36117
 
