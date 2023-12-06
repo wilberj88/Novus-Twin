@@ -4,7 +4,7 @@ Streamlit Visualizaciones:
 1) St.Pyvista
 
 Stacks:
-1) Python Points 3D https://youtu.be/-OSVKbSsqT0?si=BFUuu2tGOoQSG1u5
+1) Python Points 3D https://youtu.be/-OSVKbSsqT0?si=BFUuu2tGOoQSG1u5 https://python.plainenglish.io/visualizing-point-clouds-with-python-5388279987a7
 2) https://www.unrealengine.com/es-ES
 3) Unity
 
