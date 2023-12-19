@@ -11,6 +11,9 @@ Stacks:
 JavaScript 3D + ChatGPT: 
 https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
 
+Sity Twin:
+https://medium.com/geospatial-intelligence/an-agent-based-case-study-for-urban-digital-twins-1e9f16a5ca2a
+
 Python 3D 
 https://blog.ml6.eu/3d-computer-vision-unlocking-the-third-dimension-part-1-bd15450b1f48
 https://towardsdatascience.com/discover-3d-point-cloud-processing-with-python-6112d9ee38e7
