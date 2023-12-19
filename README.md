@@ -13,6 +13,7 @@ https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-developmen
 
 Sity Twin:
 https://medium.com/geospatial-intelligence/an-agent-based-case-study-for-urban-digital-twins-1e9f16a5ca2a
+https://towardsdatascience.com/3d-spatial-data-integration-with-python-7ef8ef14589a
 
 Python 3D 
 https://blog.ml6.eu/3d-computer-vision-unlocking-the-third-dimension-part-1-bd15450b1f48
