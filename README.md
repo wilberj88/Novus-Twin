@@ -1,5 +1,8 @@
 # Novus-Twin
 
+earth twin by Nvidia:
+https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin
+
 Streamlit Visualizaciones:
 1) St.Pyvista
 
