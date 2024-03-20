@@ -3,6 +3,9 @@
 earth twin by Nvidia:
 https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin
 
+LLM Twin: 
+https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f
+
 Streamlit Visualizaciones:
 1) St.Pyvista
 
