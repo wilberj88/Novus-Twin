@@ -6,6 +6,9 @@ https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin
 LLM Twin: 
 https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f
 
+Transport:
+https://medium.com/geospatial-intelligence/our-journey-with-digital-twins-for-transport-operations-a-strategic-view-dc03015edc80
+
 Streamlit Visualizaciones:
 1) St.Pyvista
 
