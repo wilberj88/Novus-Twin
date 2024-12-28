@@ -3,6 +3,9 @@
 earth twin by Nvidia:
 https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin
 
+Digital World:
+https://medium.com/@animagun/building-a-scalable-3d-geospatial-visualization-system-with-open-source-tools-%EF%B8%8F-9f348feb7e30
+
 LLM Twin: 
 https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f
 
